@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Exam.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:/Users/PC_A269/Documents/Unreal Projects/Exam/Intermediate/Build/Win64/x64/ExamEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.InclOrderUnreal5_4.h.obj"
+"C:/Users/PC_A269/Documents/Unreal Projects/Exam/Intermediate/Build/Win64/x64/UnrealEditor/Development/Exam/Module.Exam.gen.cpp.obj"
+"C:/Users/PC_A269/Documents/Unreal Projects/Exam/Intermediate/Build/Win64/x64/UnrealEditor/Development/Exam/Exam.cpp.obj"
+"C:/Users/PC_A269/Documents/Unreal Projects/Exam/Intermediate/Build/Win64/x64/UnrealEditor/Development/Exam/NewCharacterMovementComponent.cpp.obj"
+"C:/Users/PC_A269/Documents/Unreal Projects/Exam/Intermediate/Build/Win64/x64/UnrealEditor/Development/Exam/PerModuleInline.gen.cpp.obj"
+"C:/Users/PC_A269/Documents/Unreal Projects/Exam/Intermediate/Build/Win64/x64/UnrealEditor/Development/Exam/Default.rc2.res"
+/OUT:"C:/Users/PC_A269/Documents/Unreal Projects/Exam/Intermediate/Build/Win64/x64/UnrealEditor/Development/Exam/UnrealEditor-Exam.lib"

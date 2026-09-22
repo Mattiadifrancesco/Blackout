@@ -1,0 +1,9 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.Exam.gen.cpp.obj": [
+			"Exam.init.gen.cpp.obj",
+			"NewCharacterMovementComponent.gen.cpp.obj"
+		]
+	}
+}

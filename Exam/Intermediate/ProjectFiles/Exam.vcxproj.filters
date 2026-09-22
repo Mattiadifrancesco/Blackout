@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Exam.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Exam.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ExamEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Source\Exam">
+      <UniqueIdentifier>{BC7082FB-7BAB-3B26-8E9C-621668142DF2}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Exam\Exam.Build.cs">
+      <Filter>Source\Exam</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Exam\Exam.cpp">
+      <Filter>Source\Exam</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Exam\Exam.h">
+      <Filter>Source\Exam</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Exam\NewCharacterMovementComponent.cpp">
+      <Filter>Source\Exam</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Exam\NewCharacterMovementComponent.h">
+      <Filter>Source\Exam</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
